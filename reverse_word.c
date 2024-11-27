@@ -9,6 +9,7 @@ Sample output : olleh dlrow
 #include <stdio.h>
 #include <string.h>
 
+// with less additional variables
 void reverse_words(char *str) {
 	char buffer[50];
 	int i = 0,j = 0;
